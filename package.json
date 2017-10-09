@@ -1,5 +1,5 @@
 {
-  "name": "inview",
+  "name": "inview-lite",
   "version": "0.0.9",
   "description": "Detect when element scrolled to view ",
   "main": "inview.js",
